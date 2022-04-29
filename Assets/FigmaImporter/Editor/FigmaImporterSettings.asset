@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad400953b60bd4f46ad225a4161e2df2, type: 3}
+  m_Name: FigmaImporterSettings
+  m_EditorClassIdentifier: 
+  clientCode: AMraDdvij9dXshZvTry1wr8C4
+  state: 1071641702
+  token: figu_Nyq0Rla8cx84sNnbUCccR7hhghOeLgXwFQ_Wa_x6
+  url: https://www.figma.com/file/e9Kb3zb0rSsoRYutoIahge/%D0%92%D0%9A%D0%A0-%D0%9A%D0%B8%D1%81%D0%B8%D0%BD-(2)?node-id=1%3A2
+  rendersPath: FigmaImporter/Renders
