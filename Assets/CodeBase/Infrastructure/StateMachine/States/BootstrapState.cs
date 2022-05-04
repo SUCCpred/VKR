@@ -11,7 +11,7 @@ namespace Assets.CodeBase.Infrastructure.StateMachine.States
         #region Constants
 
         private const string BOOTSTRP_SCENE_NAME = "BootstrapScene";
-        private const string GAME_SCENE_NAME = "GameScene";
+        private const string GAME_SCENE_NAME = "Menu_Scene";
 
         #endregion
 
